@@ -50,7 +50,7 @@ Run command <code>docker-compose up -d</code>
 
 ### Technology used:
 
-- PerlinNoise (![PerlinNoise](https://en.wikipedia.org/wiki/Perlin_noise) ![PerlinNoiseLibrary](https://github.com/A1essandro/perlin-noise-generator) )
+- PerlinNoise ([PerlinNoise](https://en.wikipedia.org/wiki/Perlin_noise) [PerlinNoiseLibrary](https://github.com/A1essandro/perlin-noise-generator) )
 
 ### Documentation:
 
